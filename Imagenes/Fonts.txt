@@ -1,0 +1,13 @@
+Fonts used in this design:
+
+Font: Archivo Black
+Author: Omnibus Type
+Url: http://www.fontsquirrel.com/fonts/archivo-black
+
+Font: Museo
+Author: Exljbris
+Url: http://www.fontsquirrel.com/fonts/museo
+
+Font: Galano Grotesque
+Author: Rene Bieder
+Url: https://www.fontsquirrel.com/fonts/galano-grotesque
